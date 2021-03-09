@@ -9,10 +9,10 @@ Rails.application.routes.draw do
 end
 
 
-YAY WE'RE DONE
+# YAY WE'RE DONE
 
-1XX Informational, Still Processing
-2XX A OK, success!
-3XX Redirect
-4XX You Fucked Up
-5XX We Fucked UP (server)
+# 1XX Informational, Still Processing
+# 2XX A OK, success!
+# 3XX Redirect
+# 4XX You Fucked Up
+# 5XX We Fucked UP (server)
